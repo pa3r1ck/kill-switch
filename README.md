@@ -1,2 +1,1 @@
-# kill-switch
-Vpn Kill Switch
+# a simple vpn kill switch bash script
