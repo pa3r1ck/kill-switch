@@ -1,1 +1,1 @@
-# a simple vpn kill switch bash script
+a simple openvpn kill switch bash script
